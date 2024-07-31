@@ -23,8 +23,9 @@ To use this code, you need to have Python installed along with the following lib
 
 You can install these dependencies using `pip`:
 
-```bash
+```python
 pip install pandas numpy scipy
+```
 
 ## Usage
 
